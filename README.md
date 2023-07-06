@@ -1,0 +1,2 @@
+# earthquake-map
+earthquake-map
