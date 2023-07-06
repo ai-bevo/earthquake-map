@@ -78,7 +78,7 @@ legend.onAdd = function () {
             limits[i] + (limits[i + 1] ? '&ndash;' + limits[i + 1] + '<br>' : '+');
     }
 
-    div.innerHTML = "<h3>Yes, Keisuke. I made it</h3>" + legendInfo;
+    div.innerHTML = "<h3>Earthquake Depth (km)</h3>" + legendInfo;
 
 
     div.innerHTML += "<ul>" + labels.join("") + "</ul>";
